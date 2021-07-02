@@ -1,24 +1,40 @@
-# vue-drag-n-drop
 
-## Project setup
+# Drag & Drop File Loader
+
+Про загрузчик файлов:
+
+1. Загрузите картинку и кликните "Отправить", чтобы увидеть ее URL в формате base64 в консоли.
+
+2. Если Вы загрузите несколько картинок, Вы увидите их в консоли, а по клику на "Отправить" - их URL.
+
+3. Загрузчик не переводит в этот формат URL файлов другого типа.
+
+## Технологии
+
+HTML, SCSS, JS, Vue.js
+
+## Установка зависимостей
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Для разработки используйте
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Для сборки используйте
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Линт / фикс
+
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Тест
+[Ссылка для просмотра](https://varyalikhanina.github.io/vue-drag-n-drop/)
