@@ -1,4 +1,4 @@
-# briskly
+# vue-drag-n-drop
 
 ## Project setup
 ```
